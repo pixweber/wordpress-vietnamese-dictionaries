@@ -1,0 +1,5 @@
+{
+    "require": {
+        "evert/sitemap-php": "^1.2"
+    }
+}
